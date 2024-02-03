@@ -11,3 +11,9 @@ console.log(Math.abs(-88));
 console.log(Math.round(2.49));
 console.log(Math.floor(2.90));
 console.log(Math.ceil(2.10))
+console.log(Math.random());
+console.log(Math.random()*10);
+const rand = Math.round(Math.random()*10);
+console.log(rand);
+
+
